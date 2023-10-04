@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://charles-hu.github.io/files/Junhao-cv.pdf"
     
   # - title: "Guide"
   #   url: /markdown/
